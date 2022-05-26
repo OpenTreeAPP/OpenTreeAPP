@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "OpenTree Project"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "seedling, planting and nurturing trees for carbon capture and fighting against global warming."
-  location         : "Global"
+  bio              : "Trees capture carbon and prevent global warming."
+  location         : "Green Global"
   email            :
   links:
     - label: "Email"
