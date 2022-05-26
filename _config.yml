@@ -20,7 +20,7 @@ title                    : "OpenTree APP"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Open Tree Project"
-description              : "the action of carbon neutral into operation.Want to help stop global warming?"
+description              : "Trees capture carbon and prevent global warming."
 url                      : "https://OpenTreeAPP.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
