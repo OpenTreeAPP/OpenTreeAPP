@@ -5,9 +5,10 @@ title:  "What's global warming?"
 
 [Source: NASA's “Global Climate Change: Vital Signs of the Planet”](https://climate.nasa.gov/resources/global-warming-vs-climate-change/)
 
+![](https://climate.nasa.gov/internal_resources/2540)
+
 What's global warming?
 ===
-![](https://climate.nasa.gov/internal_resources/2540)
 
 Global warming is the long-term heating of Earth’s climate system observed since the pre-industrial period (between 1850 and 1900) due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmosphere. The term is frequently used interchangeably with the term climate change, though the latter refers to both human- and naturally produced warming and the effects it has on our planet. It is most commonly measured as the average increase in Earth’s global surface temperature.
 
