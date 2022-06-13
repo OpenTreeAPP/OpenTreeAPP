@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "What's global warming?"
+title:  "What is global warming?"
 ---
 
 [Source: NASA's “Global Climate Change: Vital Signs of the Planet”](https://climate.nasa.gov/resources/global-warming-vs-climate-change/)
