@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "What is Climate Change?"
+categories: GlobalWarming
 ---
 
 [Source: United Nations "Climate Action"](https://www.un.org/en/climatechange/what-is-climate-change#:~:text=Climate%20change%20refers%20to%20long,like%20coal%2C%20oil%20and%20gas.)

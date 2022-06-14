@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "What is Warming stripes?"
+categories: GlobalWarming
 ---
 
 [Source: "Warming stripes" From Wikipedia](https://en.wikipedia.org/wiki/Warming_stripes)
