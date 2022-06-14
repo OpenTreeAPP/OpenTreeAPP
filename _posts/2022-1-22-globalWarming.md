@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "What is global warming?"
+title:  "What is Global Warming?"
 categories: GlobalWarming
 ---
 
