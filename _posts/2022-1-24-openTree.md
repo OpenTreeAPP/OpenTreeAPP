@@ -8,7 +8,7 @@ header:
     provider: youtube
 ---
 
-[Source: TED-Ed "What if there were 1 trillion more trees?" - Jean-François Bastin](https://www.youtube.com/watch?v=3hxE7Af98AI)
+[Source: TED-Ed "What if there were 1 trillion more trees?" - Jean-François Bastin]
 
 "What if there were 1 trillion more trees?"
 ===
