@@ -2,7 +2,8 @@
 main:
   - title: "Category"
     url: /categories/
-
+  - title: "About"
+    url: https://opentreeapp.github.io/about/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
