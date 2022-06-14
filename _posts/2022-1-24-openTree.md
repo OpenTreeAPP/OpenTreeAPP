@@ -13,6 +13,6 @@ header:
 "What if there were 1 trillion more trees?"
 ===
 
-## How can trees help in the fight against climate change? 
+How can trees help in the fight against climate change? 
 
 {% include video id="3hxE7Af98AI" provider="youtube" %}
