@@ -3,7 +3,6 @@ layout: single
 title:  "Trees 'most effective solution' for warming"
 categories: OpenTree
 ---
-
 [Source: bbc.com/news Climate change: Trees 'most effective solution' for warming](https://www.bbc.com/news/science-environment-48870920/)
 
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/4DAC/production/_107748891_gettyimages-491672296.jpg)
