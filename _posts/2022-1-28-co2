@@ -22,7 +22,7 @@ district sequester 1.15 million tonnes of CO2,
 which accounts for an average of 20 kg per tree
 per year.
 
-# The weight of Carbon in the tree (Kg)
+>The weight of Carbon in the tree (Kg)
 |Age of the tree(Year)|Tall variety|Dwarf variety|
 |---|:---:|---:|
 |5|25|28|
@@ -31,7 +31,7 @@ per year.
 |20|238|156|
 |25|380|252|
 
-# The weight of CO2 sequestered in the tree per year (Kg)
+>The weight of CO2 sequestered in the tree per year (Kg)
 |Age of the tree(Year)|Tall variety|Dwarf variety|
 |---|:---:|---:|
 |5|19|20|
