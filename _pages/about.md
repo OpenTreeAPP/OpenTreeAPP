@@ -4,7 +4,7 @@ permalink: /about/
 date: 2022-1-22
 ---
 
-I am convinced that carbon capture is necessary to prevent global warming and climate change.
+Carbon capture is necessary to combat global warming and climate change. So I decided to plant a tree.
 
 [woodlandtrust.org.uk : How trees fight climate change](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/how-trees-fight-climate-change/)
 
