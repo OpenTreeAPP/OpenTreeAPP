@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "About"
 permalink: /about/
 date: 2022-1-22
 ---
