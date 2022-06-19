@@ -3,8 +3,15 @@ title: "About"
 permalink: /about/
 date: 2022-1-22
 ---
+# We need to act now
+Global warming is happening at a faster rate than ever. 
+We’re in a climate emergency and it’s threatening our planet.
 
-Carbon capture is necessary to combat global warming and climate change. So I decided to plant a tree.
+Carbon capture is necessary to combat global warming and climate change.
+
+Technology is being explored to remove CO2 – the biggest culprit – from the atmosphere, but they are expensive and complex.
+
+There is a simpler solution – and it’s our most powerful weapon in the fight against climate change: trees.
 
 [woodlandtrust.org.uk : How trees fight climate change](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/how-trees-fight-climate-change/)
 
