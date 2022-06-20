@@ -16,23 +16,21 @@ We’re in a climate emergency and it’s threatening our planet.
 Global warming is happening at a faster rate than ever. 
 We’re in a climate emergency and it’s threatening our planet.
 
-Carbon capture is necessary to combat global warming and climate change.
+> Carbon capture is necessary to combat global warming and climate change.
 
+## Our most powerful weapon: trees
 Technology is being explored to remove CO2 – the biggest culprit – from the atmosphere, but they are expensive and complex.
 
 > There is a simpler solution – and it’s our most powerful weapon in the fight against climate change: trees.
 
-## Our most powerful weapon: trees
->Trees are the ultimate carbon capture and storage machines. Like great carbon sinks, woods and forests absorb atmospheric carbon and lock it up for centuries. They do this through photosynthesis.
+## The ultimate carbon capture and storage
+Trees are the ultimate carbon capture and storage machines. Like great carbon sinks, woods and forests absorb atmospheric carbon and lock it up for centuries. They do this through photosynthesis.
 
->The entire woodland ecosystem plays a huge role in locking up carbon, including the living wood, roots, leaves, deadwood, surrounding soils and its associated vegetation.
+> The entire woodland ecosystem plays a huge role in locking up carbon, including the living wood, roots, leaves, deadwood, surrounding soils and its associated vegetation.
 
 ## Planning for the future
+Tackling this crisis now means leaving the world in a liveable state for future generations.
 
->Tackling this crisis now means leaving the world in a liveable state for future generations.
+> By working with schools and communities, we’re empowering people to take the fight against climate change into their own hands.
 
->We want everyone to connect with and recognise the importance of trees and woods in our lives, from distant rainforests to the landscape on our doorstep. 
-
->By working with schools and communities, we’re empowering people to take the fight against climate change into their own hands.
-
-[woodlandtrust.org.uk : How trees fight climate change](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/how-trees-fight-climate-change/)
+[Source : woodlandtrust.org.uk : How trees fight climate change](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/how-trees-fight-climate-change/)
