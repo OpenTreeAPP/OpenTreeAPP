@@ -3,19 +3,37 @@ title: "Project"
 permalink: /project/
 date: 2022-1-22
 ---
-## Current situation of global warming
+##  OpenTree Project
+> We need to act now.
+> we need more trees.
+> we need to protect the ones we already have.
+> we do need to plant more trees, quickly.
+> We need to start planting for the future.
 
-The Intergovernmental Panel on Climate Change (IPCC) has warned that global temperatures need to be kept from rising by more than 1.5°C. We've already passed 1°C. 
-
-According to experts, we're on track for an increase of between 3°C and 4°C by 2100.And these are only global average temperatures. 
-At the poles and over land (where people live), the increase may be higher – possibly even double.
+### We need to act now
+> The Intergovernmental Panel on Climate Change (IPCC) has warned that global temperatures need to be kept from rising by more than 1.5°C. We've already passed 1°C.
 
 > Global warming is happening at a faster rate than ever. 
 We’re in a climate emergency and it’s threatening our planet.
 
-## We need to act now
-We need to seriously reduce our emissions, and find a way of reducing the damage already done. 
+### the fight against climate change: trees
+We need to seriously reduce our emissions, and find a way of reducing the damage already done.
 
 Technology is being explored to remove CO2 – the biggest culprit – from the atmosphere, but they are expensive and complex.
 
 > There is a simpler solution – and it’s our most powerful weapon in the fight against climate change: trees.
+
+### Trees do more than just capture carbon.
+They also fight the cruel effects of a changing climate. 
+- They can help:
+ - Prevent flooding
+ - Reduce city temperature
+ - Reduce pollution
+ - Keep soil nutrient-rich
+
+### We need more trees
+Climate change is a huge and complex issue and, as individuals, we can feel helpless. But there is something we can do – and that's increasing tree and woodland cover.
+> we do need to plant more trees, quickly.
+
+### Planning for the future
+Tackling this crisis now means leaving the world in a liveable state for future generations.
