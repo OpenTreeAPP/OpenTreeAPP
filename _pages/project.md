@@ -6,9 +6,13 @@ date: 2022-1-22
 ##  OpenTree Project
 Trees are one of the best ways to capture and store atmospheric carbon. 
 > We need to act now.
+
 > we need more trees.
+
 > we need to protect the ones we already have.
+
 > we do need to plant more trees, quickly.
+
 > We need to start planting for the future.
 
 ### We need to act now
