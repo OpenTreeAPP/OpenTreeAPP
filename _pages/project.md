@@ -4,6 +4,7 @@ permalink: /project/
 date: 2022-1-22
 ---
 ##  OpenTree Project
+Trees are one of the best ways to capture and store atmospheric carbon. 
 > We need to act now.
 > we need more trees.
 > we need to protect the ones we already have.
@@ -13,7 +14,7 @@ date: 2022-1-22
 ### We need to act now
 > The Intergovernmental Panel on Climate Change (IPCC) has warned that global temperatures need to be kept from rising by more than 1.5°C. We've already passed 1°C.
 
-> Global warming is happening at a faster rate than ever. 
+Global warming is happening at a faster rate than ever. 
 We’re in a climate emergency and it’s threatening our planet.
 
 ### the fight against climate change: trees
