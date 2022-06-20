@@ -52,4 +52,3 @@ They also fight the cruel effects of a changing climate.
   * Reduce pollution
   * Keep soil nutrient-rich
 
-s
