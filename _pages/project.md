@@ -31,10 +31,10 @@ Technology is being explored to remove CO2 – the biggest culprit – from the 
 ### Trees do more than just capture carbon.
 They also fight the cruel effects of a changing climate. 
 - They can help:
- - Prevent flooding
- - Reduce city temperature
- - Reduce pollution
- - Keep soil nutrient-rich
+  * Prevent flooding
+  * Reduce city temperature
+  * Reduce pollution
+  * Keep soil nutrient-rich
 
 ### We need more trees
 Climate change is a huge and complex issue and, as individuals, we can feel helpless. But there is something we can do – and that's increasing tree and woodland cover.
