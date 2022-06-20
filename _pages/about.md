@@ -33,4 +33,4 @@ Tackling this crisis now means leaving the world in a liveable state for future 
 
 > By working with schools and communities, we’re empowering people to take the fight against climate change into their own hands.
 
-[Source : woodlandtrust.org.uk : How trees fight climate change](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/how-trees-fight-climate-change/)
+[Source : woodlandtrust.org.uk : How trees fight climate change]()
