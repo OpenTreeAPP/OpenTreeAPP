@@ -28,7 +28,7 @@ Global warming is happening at a faster rate than ever.
 We’re in a climate emergency and it’s threatening our planet.
 > We need to act now
 
-### the best ways and simpler solution
+### The best ways and simpler solution
 We need to seriously reduce our emissions, and find a way of reducing the damage already done.
 
 Technology is being explored to remove CO2 – the biggest culprit – from the atmosphere, but they are expensive and complex.
