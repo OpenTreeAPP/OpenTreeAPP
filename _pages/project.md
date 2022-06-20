@@ -4,16 +4,18 @@ permalink: /project/
 date: 2022-1-22
 ---
 ##  OpenTree Project
-Trees are one of the best ways to capture and store atmospheric carbon. 
-> We need to act now.
+> Open license public Trees for schools and communities.
+Trees are one of the best ways to capture and store atmospheric carbon.
+We want to make sure everybody has the chance to plant a tree.
+So we’re giving away trees to schools and communities. 
+Together, we'll get more trees in the ground.
 
-> we need more trees.
-
-> we need to protect the ones we already have.
-
-> we do need to plant more trees, quickly.
-
-> We need to start planting for the future.
+## OpenTree Policy
+- We need to act now.
+- we need more trees.
+- we need to protect the ones we already have.
+- we do need to plant more trees, quickly.
+- We need to start planting for the future.
 
 ### We need to act now
 > The Intergovernmental Panel on Climate Change (IPCC) has warned that global temperatures need to be kept from rising by more than 1.5°C. We've already passed 1°C.
