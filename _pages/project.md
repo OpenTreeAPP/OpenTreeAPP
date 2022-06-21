@@ -49,7 +49,7 @@ Technology is being explored to remove CO2 – the biggest culprit – from the 
 
 > There is a simpler solution – and it’s our most powerful weapon in the fight against climate change: trees.
 
-> The weight of CO2 sequestered in the tree per year (Kg)
+> The weight of CO2 sequestered in the coconut tree per year (Kg)
 
 |Age of the tree(Year)|Tall variety|Dwarf variety|
 |:---:|:---:|:---:|
