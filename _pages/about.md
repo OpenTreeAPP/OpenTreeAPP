@@ -14,18 +14,15 @@ At the poles and over land (where people live), the increase may be higher – p
 > Global warming is happening at a faster rate than ever. 
 We’re in a climate emergency and it’s threatening our planet.
 
-## We need to act now
-Global warming is happening at a faster rate than ever. 
-We’re in a climate emergency and it’s threatening our planet.
+## Fight against climate change
 
 > Carbon capture is necessary to combat global warming and climate change.
 
-## Our most powerful weapon: trees
 Technology is being explored to remove CO2 – the biggest culprit – from the atmosphere, but they are expensive and complex.
 
 > There is a simpler solution – and it’s our most powerful weapon in the fight against climate change: trees.
 
-## The ultimate carbon capture and storage
+## Ultimate carbon capture and storage
 Trees are the ultimate carbon capture and storage machines. Like great carbon sinks, woods and forests absorb atmospheric carbon and lock it up for centuries. They do this through photosynthesis.
 
 > The entire woodland ecosystem plays a huge role in locking up carbon, including the living wood, roots, leaves, deadwood, surrounding soils and its associated vegetation.
