@@ -3,7 +3,7 @@ title: "Project"
 permalink: /project/
 date: 2022-1-22
 ---
-![OpenTree Collaboration & Influence](/assets/images/openTree008.png)
+![OpenTree Collaboration & Influence](/assets/images/openTree008.png){: .align-center}
 
 ## What is OpenTree Project
 > Open license public Trees for schools and communities.
