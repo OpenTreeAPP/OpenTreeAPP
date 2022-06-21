@@ -33,6 +33,8 @@ Global warming is happening at a faster rate than ever.
 
 > We’re in a climate emergency and it’s threatening our planet.
 
+![OpenTree Collaboration & Influence](/assets/images/openTree010.png){: .align-center}
+
 ### We can do
 Climate change is a huge and complex issue and, as individuals, we can feel helpless. But there is something we can do – and that's increasing tree and woodland cover.
 
