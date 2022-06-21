@@ -47,7 +47,19 @@ Technology is being explored to remove CO2 – the biggest culprit – from the 
 
 > There is a simpler solution – and it’s our most powerful weapon in the fight against climate change: trees.
 
-### Trees do more than just capture carbon.
+> The weight of CO2 sequestered in the tree per year (Kg)
+
+|Age of the tree(Year)|Tall variety|Dwarf variety|
+|:---:|:---:|:---:|
+|5|19|20|
+|10|28|18|
+|15|30|22|
+|20|44|29|
+|25|56|37|
+
+[Source: International Journal of Environment and Climate Change : Assessing the Carbon Sequestration Potential of Coconut Plantation](https://journalijecc.com/index.php/IJECC/article/view/30345#:~:text=The%20C%20sequestration%20potential%20of,of%20carbon%20from%20the%20atmosphere.)
+
+### Trees do more than just capture carbon
 They also fight the cruel effects of a changing climate. 
 
 - They can help:
