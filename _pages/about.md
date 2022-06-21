@@ -3,6 +3,8 @@ title: "About"
 permalink: /about/
 date: 2022-1-22
 ---
+![OpenTree Collaboration & Influence](/assets/images/openTree009.png){: .align-center}
+
 ## Current situation of global warming
 The Intergovernmental Panel on Climate Change (IPCC) has warned that global temperatures need to be kept from rising by more than 1.5°C. We've already passed 1°C. 
 
