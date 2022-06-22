@@ -15,7 +15,7 @@ The tree is our most powerful weapon in the fight against climate change and one
 We're giving away trees to schools and communities.
 
 
-## What is OpenTree Project
+## What is Open Tree
 > Open license public Trees for schools and communities.
 
 Trees are one of the best ways to capture and store atmospheric carbon.
@@ -42,8 +42,6 @@ The Intergovernmental Panel on Climate Change (IPCC) has warned that global temp
 Global warming is happening at a faster rate than ever. 
 
 > We’re in a climate emergency and it’s threatening our planet.
-
-
 
 ### We can do
 Climate change is a huge and complex issue and, as individuals, we can feel helpless. But there is something we can do – and that's increasing tree and woodland cover.
