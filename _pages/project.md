@@ -36,21 +36,21 @@ Together, we'll get more trees in the ground.
 - we do need to plant more trees, quickly.
 - We need to start planting for the future.
 
-### We need to act now
+## We need to act now
 The Intergovernmental Panel on Climate Change (IPCC) has warned that global temperatures need to be kept from rising by more than 1.5°C. We've already passed 1°C.
 
 Global warming is happening at a faster rate than ever. 
 
 > We’re in a climate emergency and it’s threatening our planet.
 
-### We can do
+## We can do
 Climate change is a huge and complex issue and, as individuals, we can feel helpless. But there is something we can do – and that's increasing tree and woodland cover.
 
 ![OpenTree Collaboration & Influence](/assets/images/openTree010.png){: .align-center}
 
 > we do need to plant more trees, quickly.
 
-### The best ways and simpler solution
+## The best ways and simpler solution
 We need to seriously reduce our emissions, and find a way of reducing the damage already done.
 
 Technology is being explored to remove CO2 – the biggest culprit – from the atmosphere, but they are expensive and complex.
@@ -69,7 +69,7 @@ Technology is being explored to remove CO2 – the biggest culprit – from the 
 
 [Source: International Journal of Environment and Climate Change : Assessing the Carbon Sequestration Potential of Coconut Plantation](https://journalijecc.com/index.php/IJECC/article/view/30345#:~:text=The%20C%20sequestration%20potential%20of,of%20carbon%20from%20the%20atmosphere.)
 
-### Trees do more than just capture carbon
+## Trees do more than just capture carbon
 They also fight the cruel effects of a changing climate. 
 
 - They can help:
