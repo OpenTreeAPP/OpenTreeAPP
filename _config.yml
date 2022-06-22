@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We can do it - We need to start planting for future generations."
   location         : "Green Global"
-  email            : #"opentree.api@gmail.com"
+  email            : "opentree.api@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
