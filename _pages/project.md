@@ -5,13 +5,10 @@ date: 2022-1-22
 ---
 ![OpenTree Collaboration & Influence](/assets/images/openTree008.png){: .align-center}
 > The mission of Open Tree Project (OTP) is to provide Open license public Trees for the public good.
-
 > Global warming is happening at a faster rate than ever.
-
 > The tree is our most powerful weapon in the fight against climate change and one of the best ways to capture and store carbon.
 
 > We can do it – We need to start planting for future generations.
-
 > We're giving away trees to schools and communities.
 
 
